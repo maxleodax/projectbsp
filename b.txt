@@ -12,4 +12,5 @@ Mal ein simples merge!
 7
 8 wird gemerged
 
-Änderung in b in DEV
+Änderung in b in DEV 1
+Änderung in b in DEV 2
