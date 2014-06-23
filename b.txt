@@ -17,3 +17,5 @@ Mal ein simples merge!
 Änderung in b in DEV 3
 Änderung in b in DEV 4
 
+Änderung in local 2!
+
